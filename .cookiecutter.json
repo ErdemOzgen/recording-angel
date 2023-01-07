@@ -1,0 +1,13 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Erdem Ozgen",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "m.erdemozgen@gmail.com",
+  "friendly_name": "Recording Angel",
+  "github_user": "ErdemOzgen",
+  "license": "Apache-2.0",
+  "package_name": "recording_angel",
+  "project_name": "recording-angel",
+  "version": "0.1.0"
+}
