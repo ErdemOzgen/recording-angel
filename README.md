@@ -1,73 +1,70 @@
-# Recording Angel
+# Getting Started with Create React App
 
-[![PyPI](https://img.shields.io/pypi/v/recording-angel.svg)][pypi_]
-[![Status](https://img.shields.io/pypi/status/recording-angel.svg)][status]
-[![Python Version](https://img.shields.io/pypi/pyversions/recording-angel)][python version]
-[![License](https://img.shields.io/pypi/l/recording-angel)][license]
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[![Read the documentation at https://recording-angel.readthedocs.io/](https://img.shields.io/readthedocs/recording-angel/latest.svg?label=Read%20the%20Docs)][read the docs]
-[![Tests](https://github.com/ErdemOzgen/recording-angel/workflows/Tests/badge.svg)][tests]
-[![Codecov](https://codecov.io/gh/ErdemOzgen/recording-angel/branch/main/graph/badge.svg)][codecov]
+## Available Scripts
 
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][pre-commit]
-[![Black](https://img.shields.io/badge/code%20style-black-000000.svg)][black]
+In the project directory, you can run:
 
-[pypi_]: https://pypi.org/project/recording-angel/
-[status]: https://pypi.org/project/recording-angel/
-[python version]: https://pypi.org/project/recording-angel
-[read the docs]: https://recording-angel.readthedocs.io/
-[tests]: https://github.com/ErdemOzgen/recording-angel/actions?workflow=Tests
-[codecov]: https://app.codecov.io/gh/ErdemOzgen/recording-angel
-[pre-commit]: https://github.com/pre-commit/pre-commit
-[black]: https://github.com/psf/black
+### `npm start`
 
-## Features
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- TODO
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Requirements
+### `npm test`
 
-- TODO
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Installation
+### `npm run build`
 
-You can install _Recording Angel_ via [pip] from [PyPI]:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-```console
-$ pip install recording-angel
-```
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Usage
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Please see the [Command-line Reference] for details.
+### `npm run eject`
 
-## Contributing
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-Contributions are very welcome.
-To learn more, see the [Contributor Guide].
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## License
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Distributed under the terms of the [Apache 2.0 license][license],
-_Recording Angel_ is free and open source software.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Issues
+## Learn More
 
-If you encounter any problems,
-please [file an issue] along with a detailed description.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## Credits
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-This project was generated from [@cjolowicz]'s [Hypermodern Python Cookiecutter] template.
+### Code Splitting
 
-[@cjolowicz]: https://github.com/cjolowicz
-[pypi]: https://pypi.org/
-[hypermodern python cookiecutter]: https://github.com/cjolowicz/cookiecutter-hypermodern-python
-[file an issue]: https://github.com/ErdemOzgen/recording-angel/issues
-[pip]: https://pip.pypa.io/
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-<!-- github-only -->
+### Analyzing the Bundle Size
 
-[license]: https://github.com/ErdemOzgen/recording-angel/blob/main/LICENSE
-[contributor guide]: https://github.com/ErdemOzgen/recording-angel/blob/main/CONTRIBUTING.md
-[command-line reference]: https://recording-angel.readthedocs.io/en/latest/usage.html
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
